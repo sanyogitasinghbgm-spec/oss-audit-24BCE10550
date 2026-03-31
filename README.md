@@ -24,7 +24,7 @@ Python was created by Guido van Rossum and first released in 1991. It was design
 
 Because Python is open-source, developers around the world can contribute to its development and improve its ecosystem.
 
-Project Objectives
+## Project Objectives
 
 1)The main objectives of this project were:
 2)To understand the philosophy behind open-source software.
@@ -33,7 +33,7 @@ Project Objectives
 5)To inspect system information, packages, logs, and directories using automation scripts.
 6)To document observations and learn how open-source ecosystems function
 
-Repository Structure
+## Repository Structure
 
 This repository contains several shell scripts that perform different auditing and analysis tasks.
 1)README.md
@@ -43,7 +43,7 @@ This repository contains several shell scripts that perform different auditing a
 5)script4_log_analyzer.sh
 6)script5_manifesto_generator.sh
 
-Script Descriptions
+## Script Descriptions
 Script 1 – System Identity Report
 
 This script gathers basic information about the Linux system and displays it in a structured format.
@@ -125,7 +125,7 @@ Technologies Used:
 3)Python (audited software)
 4)Git & GitHub for version control
 
-Key Learnings
+## Key Learnings
 
 Working on this project helped me understand several important concepts, including:
 
@@ -137,7 +137,7 @@ Working on this project helped me understand several important concepts, includi
 
 It also improved my familiarity with GitHub and version control, which are essential tools in modern software development.
 
-Conclusion
+## Conclusion
 
 Open-source software plays a vital role in today's technology ecosystem. Projects like Python demonstrate how collaborative development can produce powerful tools used across industries.
 
