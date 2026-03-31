@@ -44,7 +44,7 @@ This repository contains several shell scripts that perform different auditing a
 6)script5_manifesto_generator.sh
 
 ## Script Descriptions
-Script 1 – System Identity Report
+# Script 1 – System Identity Report
 
 This script gathers basic information about the Linux system and displays it in a structured format.
 
@@ -59,7 +59,7 @@ It collects details such as:
 This script demonstrates how simple shell commands can be combined to generate a quick system overview.
 
 
-Script 2 – FOSS Package Inspector
+# Script 2 – FOSS Package Inspector
 
 The second script checks whether Python is installed on the system.
 
@@ -71,7 +71,7 @@ It performs tasks such as:
 
 This helps confirm the presence of the selected open-source software in the Linux environment.
 
-Script 3 – Disk and Permission Auditor
+# Script 3 – Disk and Permission Auditor
 
 This script inspects several important Linux directories and reports information such as:
 
@@ -86,7 +86,7 @@ Directories examined include:
 /usr/bin
 /tmp
 
-Script 4 – Log File Analyzer
+# Script 4 – Log File Analyzer
 
 The log analyzer script scans Linux log files and searches for specific keywords such as "error".
 
@@ -98,7 +98,7 @@ The script:
 
 This demonstrates basic log monitoring techniques used in system administration.
 
-Script 5 – Open Source Manifesto Generator
+# Script 5 – Open Source Manifesto Generator
 
 The final script is an interactive script that generates a small open-source philosophy statement.
 
